@@ -82,7 +82,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/elenak/Documents/SDL/Mandelbrot set/complex.h">
+			<Option target="Mandelbrot_set"/>
+		</Unit>
+		<Unit filename="/Users/elenak/Documents/SDL/Mandelbrot set/fractal.cpp">
+			<Option target="Mandelbrot_set"/>
+		</Unit>
+		<Unit filename="/Users/elenak/Documents/SDL/Mandelbrot set/fractal.h">
+			<Option target="Mandelbrot_set"/>
+		</Unit>
 		<Unit filename="/Users/elenak/Documents/SDL/Mandelbrot set/main.cpp">
+			<Option target="Mandelbrot_set"/>
+		</Unit>
+		<Unit filename="/Users/elenak/Documents/SDL/Mandelbrot set/settings.h">
 			<Option target="Mandelbrot_set"/>
 		</Unit>
 		<Unit filename="/Users/elenak/Documents/SDL/Mandelbrot set/CMakeLists.txt">

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Mandelbrot_set.dir/fractal.cpp.o"
   "CMakeFiles/Mandelbrot_set.dir/main.cpp.o"
   "Mandelbrot_set"
   "Mandelbrot_set.pdb"

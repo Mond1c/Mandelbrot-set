@@ -143,6 +143,33 @@ Mandelbrot_set/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mandelbrot_set.dir/build.make CMakeFiles/Mandelbrot_set.dir/build
 .PHONY : Mandelbrot_set/fast
 
+fractal.o: fractal.cpp.o
+
+.PHONY : fractal.o
+
+# target to build an object file
+fractal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mandelbrot_set.dir/build.make CMakeFiles/Mandelbrot_set.dir/fractal.cpp.o
+.PHONY : fractal.cpp.o
+
+fractal.i: fractal.cpp.i
+
+.PHONY : fractal.i
+
+# target to preprocess a source file
+fractal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mandelbrot_set.dir/build.make CMakeFiles/Mandelbrot_set.dir/fractal.cpp.i
+.PHONY : fractal.cpp.i
+
+fractal.s: fractal.cpp.s
+
+.PHONY : fractal.s
+
+# target to generate assembly for a file
+fractal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mandelbrot_set.dir/build.make CMakeFiles/Mandelbrot_set.dir/fractal.cpp.s
+.PHONY : fractal.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -179,6 +206,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Mandelbrot_set"
+	@echo "... fractal.o"
+	@echo "... fractal.i"
+	@echo "... fractal.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

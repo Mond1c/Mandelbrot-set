@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/elenak/Documents/SDL/Mandelbrot set/fractal.cpp" "/Users/elenak/Documents/SDL/Mandelbrot set/cmake-build-debug/CMakeFiles/Mandelbrot_set.dir/fractal.cpp.o"
   "/Users/elenak/Documents/SDL/Mandelbrot set/main.cpp" "/Users/elenak/Documents/SDL/Mandelbrot set/cmake-build-debug/CMakeFiles/Mandelbrot_set.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

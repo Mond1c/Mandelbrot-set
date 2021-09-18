@@ -6,11 +6,25 @@
 
 #IncludeRegexTransform: 
 
+/Users/elenak/Documents/SDL/Mandelbrot set/complex.h
+
+/Users/elenak/Documents/SDL/Mandelbrot set/fractal.h
+SDL.h
+-
+complex.h
+/Users/elenak/Documents/SDL/Mandelbrot set/complex.h
+settings.h
+/Users/elenak/Documents/SDL/Mandelbrot set/settings.h
+
 /Users/elenak/Documents/SDL/Mandelbrot set/main.cpp
 iostream
 -
 SDL.h
 -
+fractal.h
+/Users/elenak/Documents/SDL/Mandelbrot set/fractal.h
+
+/Users/elenak/Documents/SDL/Mandelbrot set/settings.h
 
 /usr/local/Cellar/sdl2/2.0.16/include/SDL2/SDL.h
 SDL_main.h
